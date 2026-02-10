@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Hz",
+  "base_artist": "Hiroyuki SAWANO",
+  "createdAt": "2026-02-10T21:55:15.024714Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ace of Hz",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/01_Ace_of_Hz_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ace of Hz",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/02_Ace_of_Hz_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ace of Hz - NYCPARTYINFO Remix",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/03_Ace_of_Hz_-_NYCPARTYINFO_Remix_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ace of Hz (NYCPARTYINFO remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/04_Ace_of_Hz_(NYCPARTYINFO_remix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ace of Hz - Punks Jump Up Remix",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/05_Ace_of_Hz_-_Punks_Jump_Up_Remix_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ace of Hz (Punks Jump Up Remix)",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/06_Ace_of_Hz_(Punks_Jump_Up_Remix)_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ace of Hz - Punks Jump Up Dub Remix",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/07_Ace_of_Hz_-_Punks_Jump_Up_Dub_Remix_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ace of Hz (Punks Jump Up dub remix)",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/08_Ace_of_Hz_(Punks_Jump_Up_dub_remix)_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ace of Hz - Tiësto Remix",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/09_Ace_of_Hz_-_Tiësto_Remix_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ace of Hz (Tiësto Remix)",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/10_Ace_of_Hz_(Tiësto_Remix)_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ace of Hz - Tiésto Remix Radio Edit",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/11_Ace_of_Hz_-_Tiésto_Remix_Radio_Edit_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ace of Hz (Tiësto remix radio edit)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/12_Ace_of_Hz_(Tiësto_remix_radio_edit)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ace of Hz (album version)",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/13_Ace_of_Hz_(album_version)_Ladytron.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hz",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_01_Hz_澤野弘之.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Hz",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_02_Hz_澤野弘之.txt"
+    }
+  ]
+}
